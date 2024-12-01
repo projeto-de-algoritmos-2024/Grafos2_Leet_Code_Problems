@@ -30,6 +30,9 @@ Exercícios Abordados
 ![1334-1](assets/1334-1.png)
 ![1334-2](assets/1334-2.png)
 
+### [2290. Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description/)
+![2290-1](assets/2290-1.png)
+![2290-2](assets/2290-2.png)
 
 
 
