@@ -15,6 +15,7 @@ Este repositório contém soluções para problemas de programação resolvidos 
 Exercícios Abordados
 | Código do Problema | Nome do Problema | Dificuldade |
 | ------------------ | ---------------- | ----------- |
+| 2642. |[Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/) | Difícil |
 | 1568. |[Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/) | Difícil |
 | 1334. |[Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/) | Médio |
 | 2290. |[Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description/) | Difícil |
@@ -33,6 +34,10 @@ Exercícios Abordados
 ### [2290. Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description/)
 ![2290-1](assets/2290-1.png)
 ![2290-2](assets/2290-2.png)
+
+### [2642. Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/)
+![2642-1](assets/2642-1.png)
+
 
 
 

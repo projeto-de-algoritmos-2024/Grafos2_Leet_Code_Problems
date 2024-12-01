@@ -29,17 +29,16 @@ class Solution:
         grafo = criaGrafo(n, edges)
 
         menorQtdCidades = float('inf')
-        resultado = -1
+        result = -1  # Mudança para 'result'
 
         for i in range(n):
             qtdCidadesAcessiveis = self.dijkstra(grafo, n, i, distanceThreshold)
             
-            
             if qtdCidadesAcessiveis <= menorQtdCidades:
                 menorQtdCidades = qtdCidadesAcessiveis
-                resultado = i
+                result = i  # Mudança para 'result'
         
-        return resultado
+        return result
 
 def main():
     solucao = Solution()
