@@ -26,6 +26,13 @@ Exercícios Abordados
 ![1976-1](assets/1976-1.png)
 ![1976-2](assets/1976-2.png)
 
+### [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/)
+![1334-1](assets/1334-1.png)
+![1334-2](assets/1334-2.png)
+
+
+
+
 ## Instalação 
 **Linguagem**: Python<br>
 
