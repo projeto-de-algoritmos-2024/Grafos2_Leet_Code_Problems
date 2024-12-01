@@ -57,7 +57,7 @@ Basta executar o algoritmo.
 Se preferir testar diretamente no LeetCode, basta copiar o código sem a main.
 
 ## Vídeo
-
+[Grafos2 Problemas do LeetCode](https://www.youtube.com/watch?v=GAimhvgTwZI)
 
 
 
